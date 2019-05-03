@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Checkpoints/v16
+/.vs
+/Checkpoint.Model/obj
+/Checkpoint.Model/bin/Debug/netstandard2.0
+/CheckpointUm/.vs/Checkpoint/v16
+/CheckpointUm/CheckpointUm/bin/Debug/netcoreapp2.2
+/CheckpointUm/CheckpointUm/obj
