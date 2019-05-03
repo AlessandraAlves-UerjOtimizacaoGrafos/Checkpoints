@@ -1,4 +1,4 @@
-﻿using Checkpoint.Model;
+﻿using Checkpoint;
 using NLog;
 using System;
 
@@ -20,7 +20,11 @@ namespace CheckpointUm
             {
                 foreach (var teste in self.ParametrosExecucao.Testes)
                 {
-                    Console.WriteLine(teste);
+                    Console.WriteLine(teste.ToString());
+
+                    var grafo = new GrafoMatrizAdjacencia(teste);
+
+                    grafo.
                 }
             }
             catch (Exception ex)

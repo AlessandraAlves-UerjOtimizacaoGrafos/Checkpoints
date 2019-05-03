@@ -26,10 +26,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Checkpoint.Model\Checkpoint.Model.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Update="C:\Users\vinicius\.nuget\packages\nlog.config\4.6.3\contentFiles\any\any\NLog.config">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

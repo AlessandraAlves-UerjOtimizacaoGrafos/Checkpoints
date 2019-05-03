@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Checkpoint.Model
+namespace Checkpoint
 {
     public class Configuracao
     {
@@ -24,6 +24,6 @@ namespace Checkpoint.Model
         /// <summary> https://stackoverflow.com/questions/17080112/generate-random-uint </summary>
         private ushort M => (ushort)new Random(DateTime.Now.Millisecond).Next(1, 10000);
 
-        public override string ToString() => $"Os testes para esta execução foram: {string.Join(", ", this.Testes)}";
+        public override string ToString() => $"Os pâmetros de teste para esta execução foram: {string.Join(", ", this.Testes)}";
     }
 }

@@ -24,15 +24,19 @@ Formato Grafo (JSON) - exemplo:
 
 CRIAR GRAFOS DE TESTE: m=?, n=5, n=6, n=7, n=8, n=9, n=10,  n=20, n=50, n=100, n=200, n=500, n=1000.
 
-Duas representações de grafos: matriz de adjacencia e lista de adjacencias. Fazer testes com cada um dos métodos esperados: 
-	- (a) Cria grafo lendo de arquivo; 
-	- (b) adiciona/remove um vértice 
-	- (c) adiciona/remove uma nova aresta 
-	- (d) retorna uma lista de nós vizinhos de um dado vértice.
+Duas representações de grafos:
+	* matriz de adjacencia e;
+	* lista de adjacencias. 
+	
+Fazer testes com cada um dos métodos esperados: 
+	* (a) Cria grafo lendo de arquivo; 
+	* (b) adiciona/remove um vértice 
+	* (c) adiciona/remove uma nova aresta 
+	* (d) retorna uma lista de nós vizinhos de um dado vértice.
 
 
 ## Checkpoint 2
-por e-mail + slides de apresentação do trabalho: análises dos algoritmos feitos, com marcação de tempos em forma de tabelas e gráficos – Algoritmos de buscas em grafos (slides 5, 6, 9, 10, 11, 12, 13, 17, 26, 27, 57, 62)
+Por e-mail + slides de apresentação do trabalho: análises dos algoritmos feitos, com marcação de tempos em forma de tabelas e gráficos – Algoritmos de buscas em grafos (slides 5, 6, 9, 10, 11, 12, 13, 17, 26, 27, 57, 62)
 
 
 ## Checkpoint 3
