@@ -1,5 +1,5 @@
 # Otimização grafos
-Trabalho da aluna Alessandra Oliveira Alves da matéria [Otimização em Grafos].
+Trabalho da aluna Alessandra Oliveira Alves (2011020603411) da matéria [Otimização em Grafos].
 
 ## Enunciado
 Entrega da implementação dos algoritmos em grafos vistos em sala de aula (criar projeto no GitHub ou GitLab e colocar lá os arquivos do grupo, essa etapa fará parte da avaliação!).
