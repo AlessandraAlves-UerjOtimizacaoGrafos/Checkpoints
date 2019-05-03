@@ -32,7 +32,7 @@ Duas representações de grafos: matriz de adjacencia e lista de adjacencias. Fa
 
 
 ## Checkpoint 2
-por e-mail + slides de apresentação do trabalho: análises dos algoritmos feitos, com marcação de tempos em forma de tabelas e gráficos – Algoritmos de buscas em grafos (slides 5,6,9,10,11,12,13, 17,26,27,57,62)
+por e-mail + slides de apresentação do trabalho: análises dos algoritmos feitos, com marcação de tempos em forma de tabelas e gráficos – Algoritmos de buscas em grafos (slides 5, 6, 9, 10, 11, 12, 13, 17, 26, 27, 57, 62)
 
 
 ## Checkpoint 3
