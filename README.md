@@ -20,7 +20,7 @@ Formato Grafo (JSON) - exemplo:
     ["2","3"]
   ]
 }
-```js
+```
 
 CRIAR GRAFOS DE TESTE: m=?, n=5, n=6, n=7, n=8, n=9, n=10,  n=20, n=50, n=100, n=200, n=500, n=1000.
 
