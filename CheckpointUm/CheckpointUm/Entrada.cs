@@ -21,10 +21,6 @@ namespace CheckpointUm
                 foreach (var teste in self.ParametrosExecucao.Testes)
                 {
                     Console.WriteLine(teste.ToString());
-
-                    var grafo = new GrafoMatrizAdjacencia(teste);
-
-                    grafo.
                 }
             }
             catch (Exception ex)
