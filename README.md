@@ -8,7 +8,6 @@ Entrega da implementação dos algoritmos em grafos vistos em sala de aula (cria
 Formato Grafo (JSON) - exemplo:
 
 ```js
-``
 {
   “nome” : “GRAFO_ALEATORIO_GRUPO1_N_3”,
   "vertices": [
