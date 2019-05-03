@@ -9,3 +9,4 @@
 /CheckpointUm/.vs/Checkpoint/v16
 /CheckpointUm/CheckpointUm/bin/Debug/netcoreapp2.2
 /CheckpointUm/CheckpointUm/obj
+*.dtbcache
